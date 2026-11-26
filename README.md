@@ -23,7 +23,6 @@ The notebook:
 | File | Description |
 |---|---|
 | `pdm-missing-data-Sharedcapacity.ipynb` | Experiment notebook: runs all experiments and produces the tables and figures. |
-| `make_tab_uncap.py` | Produces the single-machine vs. fleet regret table from `results_raw.csv`. |
 ## Data
 
 No manual download is needed. The notebook fetches C-MAPSS from the NASA Prognostics Center of Excellence repository and stores them under `./data/`.
@@ -53,7 +52,7 @@ The main matrix has 4 data sets × 20 settings × 5 seeds = 400 blocks.
 
 ## Outputs
 
-Everything is written to `OUT_DIR`:
+Everything is written to `OUT_DIR`
 
 ## Citation
 
