@@ -58,6 +58,4 @@ Everything is written to `OUT_DIR`
 
 `Will be provided when the paper is accepted.`
 
-## License
 
-`[TO BE COMPLETED]`
